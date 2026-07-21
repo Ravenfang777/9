@@ -1,0 +1,5 @@
+assets:
+- name: xa_ex_0010.mset
+  method: copy
+  source:
+  - name: xa_ex_0010.mset
